@@ -80,6 +80,7 @@ The "subcategory_id" column, with the unique identification numbers matching tho
 The following image shows this campaign DataFrame:
 
 campaign DataFrame
+![Alt text](image-1.png)
 
 Export the campaign DataFrame as campaign.csv and save it to your GitHub repository.
 
