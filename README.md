@@ -114,6 +114,7 @@ Clean and then export the DataFrame as contacts.csv and save it to your GitHub r
 Check that your final DataFrame resembles the one in the following image:
 
 final contact DataFrame
+![Alt text](image.png)
 
 ## Create the Crowdfunding Database
 Inspect the four CSV files, and then sketch an ERD of the tables by using QuickDBDLinks to an external site..
