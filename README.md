@@ -31,6 +31,7 @@ A "category" column that contains only the category titles
 The following image shows this category DataFrame:
 
 category DataFrame
+![Alt text](image-3.png)
 
 Export the category DataFrame as category.csv and save it to your GitHub repository.
 
@@ -43,6 +44,7 @@ A "subcategory" column that contains only the subcategory titles
 The following image shows this subcategory DataFrame:
 
 subcategory DataFrame
+![Alt text](image-2.png)
 
 Export the subcategory DataFrame as subcategory.csv and save it to your GitHub repository.
 
