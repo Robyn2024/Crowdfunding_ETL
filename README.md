@@ -88,7 +88,6 @@ Choose one of the following two options for extracting and transforming the data
 
 ### Option 1: Use Python dictionary methods.
 
-### Option 2: Use regular expressions.
 
 If you chose Option 1, complete the following steps:
 
@@ -100,6 +99,10 @@ Add the values for each row to a new list.
 Create a new DataFrame that contains the extracted data.
 Split each "name" column value into a first and last name, and place each in a new column.
 Clean and export the DataFrame as contacts.csv and save it to your GitHub repository.
+
+### Option 2: Use regular expressions.
+
+
 If you chose Option 2, complete the following steps:
 
 Import the contacts.xlsx file into a DataFrame.
