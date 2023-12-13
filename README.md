@@ -19,14 +19,20 @@ Have your partner pull the changes, so both of you have the same notebook availa
 As you work through the project deliverables, you may find it helpful to break up the work across other notebooks that you each work on individually. However, once complete, please combine all the subsections back into the final ETL_Mini_Project notebook.
 
 ## Instructions
+
 The instructions for this mini project are divided into the following subsections:
 
 Create the Category and Subcategory DataFrames
+
 Create the Campaign DataFrame
+
 Create the Contacts DataFrame
+
 Create the Crowdfunding Database
 
+
 ## Create the Category and Subcategory DataFrames
+
 Extract and transform the crowdfunding.xlsx Excel data to create a category DataFrame that has the following columns:
 
 A "category_id" column that has entries going sequentially from "cat1" to "catn", where n is the number of unique categories
@@ -54,6 +60,7 @@ subcategory DataFrame
 Export the subcategory DataFrame as subcategory.csv and save it to your GitHub repository.
 
 ## Create the Campaign DataFrame
+
 Extract and transform the crowdfunding.xlsx Excel data to create a campaign DataFrame has the following columns:
 
 The "cf_id" column
@@ -92,6 +99,7 @@ campaign DataFrame
 Export the campaign DataFrame as campaign.csv and save it to your GitHub repository.
 
 ## Create the Contacts DataFrame
+
 Choose one of the following two options for extracting and transforming the data from the contacts.xlsx Excel data:
 
 ### Option 1: Use Python dictionary methods.
