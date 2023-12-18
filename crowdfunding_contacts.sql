@@ -1,9 +1,10 @@
 drop table contacts CASCADE;
 
 create table contacts (
-	contact_id varchar PRIMARY KEY,
-	first_name varchar,
-	last_name varchar,
-	email varchar);
+	contact_id int not null,
+	first_name varchar not null,
+	last_name varchar not null,
+	email varchar not null,
+	primary key(contact_id));
 	
 select * from contacts
